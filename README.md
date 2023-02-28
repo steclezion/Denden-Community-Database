@@ -1,0 +1,3 @@
+# Denden-Community-Database
+Denden Community Database software is designed for the people that lives in that region. 
+Its an open software designed for the communtity to enhance thier strengthen in ordering things out the market and Buta Gas handling systems.....
